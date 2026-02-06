@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**nilsuserb/nilsuserb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Dokuz Eylül Üniversitesi son sınıf öğrencisi olarak, veriye dayalı karar verme süreçleri ve yazılım teknolojileri üzerine yoğunlaşmaktayım. Python ve SQL kullanarak veri analizi yapma, veritabanı mimarisi oluşturma ve optimizasyon problemleri (Yöneylem Araştırması) üzerine çalışmalar yürütüyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Teknik Yetkinlikler:**
+* **Diller & Teknolojiler:** Python, SQL, C (Başlangıç).
+* **Alanlar:** Veritabanı Yönetimi, Siber Güvenlik Temelleri, Sistem Analizi.
+* **Süregelen Çalışmalar:** Akıllı Ayna projesi ile IoT ve yazılım entegrasyonu deneyimi.
+
+### About Me
+I am a senior student at Dokuz Eylül University, focusing on software development and data management. I am passionate about building efficient solutions using Python and SQL. Currently, I am expanding my knowledge in Computer Science fundamentals through Harvard's CS50x curriculum.
+
+🚀 **Current Focus:**
+* **Programming:** Python & SQL
+* **Projects:** Developing a "Smart Mirror" project combining hardware and software.
+* **Interests:** Cybersecurity, Data Analysis, and Operations Research.
+
